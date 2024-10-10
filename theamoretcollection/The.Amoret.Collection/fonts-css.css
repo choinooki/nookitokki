@@ -1,0 +1,32 @@
+/* Amoret Sans */
+@font-face {
+  font-family: 'Amoret Sans';
+  src: url('AmoretSans-Regular.woff2') format('woff2'),
+       url('AmoretSans-Regular.woff') format('woff'),
+       url('AmoretSans-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amoret Script */
+@font-face {
+  font-family: 'Amoret Script';
+  src: url('AmoretScript-Regular.woff2') format('woff2'),
+       url('AmoretScript-Regular.woff') format('woff'),
+       url('AmoretScript-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amoret Script Alt */
+@font-face {
+  font-family: 'Amoret Script Alt';
+  src: url('AmoretScriptAlt-Regular.woff2') format('woff2'),
+       url('AmoretScriptAlt-Regular.woff') format('woff'),
+       url('AmoretScriptAlt-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
