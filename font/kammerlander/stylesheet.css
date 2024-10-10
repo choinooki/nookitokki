@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Kammerlander';
+    src: url('Kammerlander-Regular.eot');
+    src: local('Kammerlander Regular'), local('Kammerlander-Regular'),
+        url('Kammerlander-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kammerlander-Regular.woff2') format('woff2'),
+        url('Kammerlander-Regular.woff') format('woff'),
+        url('Kammerlander-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kammerlander';
+    src: url('Kammerlander-Bold.eot');
+    src: local('Kammerlander Bold'), local('Kammerlander-Bold'),
+        url('Kammerlander-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Kammerlander-Bold.woff2') format('woff2'),
+        url('Kammerlander-Bold.woff') format('woff'),
+        url('Kammerlander-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
