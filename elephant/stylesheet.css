@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Elephant';
+    src: url('Elephant-Regular.woff2') format('woff2'),
+        url('Elephant-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Elephant';
+    src: url('Elephant-Italic.woff2') format('woff2'),
+        url('Elephant-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
